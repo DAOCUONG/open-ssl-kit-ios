@@ -15,6 +15,7 @@ OpenSslKit includes crypto functions that can be used in pure Swift. It supports
   s.social_media_url = 'http://horizontalsystems.io/'
 
   s.ios.deployment_target = '11.0'
+  s.watchos.deployment_target = '7.0'
   s.swift_version = '5'
 
   s.source_files = 'OpenSslKit/Classes/**/*'
