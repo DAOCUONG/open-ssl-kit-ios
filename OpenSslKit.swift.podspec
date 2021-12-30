@@ -19,7 +19,6 @@ OpenSslKit includes crypto functions that can be used in pure Swift. It supports
   s.swift_version = '5'
 
   s.source_files = 'OpenSslKit/Classes/**/*'
-  s.vendored_frameworks = 'OpenSslKit/Frameworks/OpenSSL.xcframework'
 
  
 end
